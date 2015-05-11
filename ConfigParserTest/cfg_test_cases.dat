@@ -1,0 +1,5 @@
+982905 0xb72f6e26 input.s#value=>"\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+6689002 0xb7341033 input.s#value=>"\n\x00\x00\x00\x00\x00\x00\x00\x00\x00"
+37491449 0xb7341033 input.s#value=>"\n\n\n\n\n\n\n\n\n\n"
+134691091 0x80aab70 input.s#value=>"\n\n\n\n\n\n\n\n\x0B\x00"
+188935111 0x80aab70 input.s#value=>"\n\n\n\n\n\n\n\n\n;"

@@ -1,0 +1,6 @@
+351813 0xb728ee26 input.s#value=>"\x00\x00\x00\x00\x00"
+692804 0xb717a02f input.s#value=>"\x01\x01\n\x00\x00"
+764352 0x80c794d input.s#value=>"\x01\x80\n\x00\x00"
+1027191 0xb717a02f input.s#value=>"\x01\x01\n\x01\n"
+1046960 0xb7179b23 input.s#value=>"\x01\x01\n\x0D\n"
+2644075 0xb7179a4a input.s#value=>"\x01,\n\x00\x00"
